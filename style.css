@@ -5,3 +5,11 @@ body{
 p {
   color: red;
 }
+
+.test
+{
+  width:50%;
+  margin: auto;
+  background-color: #f1f1f1;
+  color: black;
+}
